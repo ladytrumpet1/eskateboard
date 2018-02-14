@@ -1,0 +1,43 @@
+# Site settings
+title: Gday Digital Nomads
+email:
+description: An introduction to becoming a digital nomad
+
+baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
+url: "https://www.gdaydigitalnomads.com" # the base hostname & protocol for your site
+resource-url: "/static"
+post-image-url: "/images"
+static-image-url: "/static/img"
+
+#Google Ad Words Data from scripts code (using Google responsive options) and ad client
+data-ad-slot: 2973388149
+data-ad-client: ca-pub-9204963049240271
+google_ad_client: ca-pub-9204963049240271
+
+google_analytics: "UA-98384350-1"
+addthis_id: ra-5644da281510c62f
+disqus_account: jeky-new-age-account
+
+# Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
+social:
+  - title: twitter
+    url: https://twitter.com/lantoniotrento
+  - title: facebook
+    url: https://facebook.com/lantoniotrento
+  - title: google-plus
+    url: https://plus.google.com/+AntoniotrentoIt
+  #- title: github
+  #  url: http://github.com/jekyll
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+include: ["_pages", "_snippets"]
+exclude: [node_modules","gulpfile.js","package.json","README.md","LICENSE","CNAME"]
+
+gems: [jekyll-paginate, jekyll-feed]
+# Build settings
+
+port: 3999
