@@ -144,7 +144,7 @@ h4,
 h5,
 h6 {
     margin: 0 0 30px 0;
-    color: #333;
+    color: #2599ab;
     font-weight: normal; 
     line-height: 1.5;
 }
@@ -312,7 +312,7 @@ pre {
 }
 
 .m-top-80 {
-    margin-top: 80px;
+    margin-top: 10px;
 }
 
 .m-top-100 {
@@ -357,7 +357,7 @@ pre {
 }
 
 .m-bot-80 {
-    margin-bottom: 80px;
+    margin-bottom: 10px;
 }
 
 .m-bot-100 {
@@ -2335,6 +2335,10 @@ body {
     background-attachment: fixed;
     background-position: 50% 50%; 
     background-size: cover;
+}
+
+.banner-title{
+    margin-bottom: 200px;
 }
 
 .full-banner {
@@ -4404,7 +4408,7 @@ comments-list
  Footer
  ===============================================*/
 #footer.gray {
-    padding: 80px 0; 
+    padding: 10px 0; 
     background: #f5f5f5;
 }
 
@@ -5900,7 +5904,7 @@ address p {
 }
 
 .parallax-15 {
-    background-image: url("../img/skateboard/shannon-whittington-black&white.png") !important;
+    background-image: url("../img/david-marcu-125458.png") !important;
 }
 
 .parallax-16 {

@@ -3546,7 +3546,8 @@ dl.toggle.time-line:before {
 }
 
 .light-txt {
-    color: #fff !important;
+    color: #fff!important;
+    text-decoration-style: bold;
 }
 
 .round-5 {

@@ -3,26 +3,26 @@ Default theme  Stylesheet
 -------------------------------------------------------------------*/
 ::-moz-selection {
     color: #fff;
-    background: #d6b161;
+    background: #2599ab;
     text-shadow: none;
 }
 ::selection {
     color: #fff;
-    background: #d6b161;
+    background: #2599ab;
     text-shadow: none;
 }
 
 ::-moz-selection {
     /* Firefox */
     color: #fff;
-    background: #d6b161;
+    background: #2599ab;
     text-shadow: none;
 }
 
 ::-webkit-selection {
     /* Safari */
     color: #fff;
-    background: #d6b161;
+    background: #2599ab;
     text-shadow: none;
 }
 
@@ -61,11 +61,11 @@ a,
 .cd-nav .cd-primary-nav li.selected a,
 .no-touch .cd-nav .cd-primary-nav a:hover,
 .intro-portfolio a:hover {
-    color: #d6b161;
+    color: #2599ab;
 }
 
 .theme-color {
-    color: #d6b161 !important;
+    color: #2599ab !important;
 }
 
 .theme-bg,
@@ -74,31 +74,31 @@ a,
 .ei-slider-thumbs li.ei-slider-element,
 .massive-progress.progress-theme-color .progress-bar > span,
 .massive-progress.progress-theme-color .progress-bar > span:before {
-    background: #d6b161 !important;
+    background: #2599ab !important;
 }
 
 .massive-progress.progress-theme-color .progress-bar > span:before {
-    border-color: #d6b161;
+    border-color: #2599ab;
 }
 
 .btn-theme-border-color,
 .widget-social-link a:hover,
 .widget-tags a:hover {
-    border: 1px solid #d6b161;
+    border: 1px solid #2599ab;
 }
 
 .icon-tabs .nav-pills > li > a:hover,
 .icon-tabs .nav-pills > li.active > a,
 .icon-tabs .nav-pills > li.active > a:focus,
 .icon-tabs .nav-pills > li.active > a:hover {
-    border-bottom: 1px solid #d6b161;
+    border-bottom: 1px solid #2599ab;
 }
 
 .btn-theme-border-color:hover,
 .price-col.feature .p-btn:hover,
 .side-social-link a:hover,
 .massive-progress.progress-theme-color .progress-bar > span:before {
-    border: 1px solid #d6b161;
+    border: 1px solid #2599ab;
 }
 
 .accordion.time-line > dt > a:hover:after,
@@ -126,7 +126,7 @@ a,
 .travel-form.icon-tabs .nav-pills > li.active:hover > a,
 .travel-form.icon-tabs .nav-pills > li.active > a,
 .travel-form.icon-tabs .nav-pills > li.active > a:focus {
-    background: #d6b161;
+    background: #2599ab;
 }
 
 .menuzord .menuzord-menu ul.dropdown li:hover > a,
@@ -137,14 +137,14 @@ a,
 @media (min-width: 768px) {
     .c-nav_s-underline.menuzord-menu > li.active > a,
     .c-nav_s-underline.menuzord-menu > li:hover > a {
-        border-bottom: 1px solid #d6b161;
+        border-bottom: 1px solid #2599ab;
     }
     .c-nav_s-outline.menuzord-menu > li.active > a,
     .c-nav_s-outline.menuzord-menu > li:hover > a {
-        border: 1px solid #d6b161;
+        border: 1px solid #2599ab;
     }
     .c-nav_s-bg.menuzord-menu > li.active > a,
     .c-nav_s-bg.menuzord-menu > li:hover > a {
-        background: #d6b161;
+        background: #2599ab;
     }
 }
